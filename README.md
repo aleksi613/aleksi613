@@ -16,7 +16,7 @@
 - Interested in **Full Stack Engineering** and **Web Application Development**.
 
 ### 🌱 Currently Learning:
-- **CSS**, **SQL**, **JavaScript**, **HTML**, **C++**, **Deno**, and **Ember** for full-stack development.
+- **CSS**, **SQL**, **JavaScript**, **HTML** and **React** for full-stack development.
 
 ### 📫 How to Reach Me:
 - **Email**: [emailaleksi@gmail.com](mailto:emailaleksi@gmail.com) | **LinkedIn**: [Aleksi Valioghli](https://www.linkedin.com/in/aleksivalioghli/)
