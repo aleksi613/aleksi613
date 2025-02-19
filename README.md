@@ -4,7 +4,7 @@
 <h1 align="center">Hey There 👋, I'm Aleksi Valioghli</h1>
 
 <!-- Subheader Title -->
-<h3 align="center">Full Stack Enthusiast | Backend Engineer | Web Development</h3>
+<h3 align="center">Full Stack Enthusiast | Backend Software Engineer | Web Development</h3>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/68f02c60-2e3c-4336-a082-4fa80f3e10ed)
 
@@ -13,7 +13,7 @@
 - Currently pursuing a **Bachelor of Computer Science** at **Carleton University** in the **Software Engineering** stream.
 
 ### 🔥 Interests:
-- Interested in **Full Stack Engineering** and **Web Application Development**.
+- Interested in **Full Stack Engineering** and **Backend Engineering**.
 
 ### 🌱 Currently Learning:
 - **CSS**, **SQL**, **JavaScript**, **HTML** and **React** for full-stack development.
